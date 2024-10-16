@@ -1,0 +1,22 @@
+# Ignore environment files
+.env
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore npm/yarn lock files if not needed
+package-lock.json
+yarn.lock
+
+# Ignore node_modules (if applicable)
+node_modules/
+
+# Ignore editor and IDE-specific files
+.idea/
+.vscode/
+.DS_Store
+
+# Ignore Dockerfile and dockerignore if not needed in version control
+Dockerfile
+.dockerignore
