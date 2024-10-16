@@ -1,3 +1,2 @@
-#!/bin/bash  
-docker build -t my-static-site .
-
+#!/bin/bash
+docker build -t google4627/dev:latest .
